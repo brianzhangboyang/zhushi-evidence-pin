@@ -1,0 +1,19 @@
+{
+ "root": "c3e87db82f58cbe9259ffb7e3e772a9e",
+ "n_files": 11,
+ "at": "2026-10-14 11:56 +08",
+ "files": [
+  "e5609e4f60c0d50c execution_log.jsonl",
+  "95a4d8ec5d7d9868 tickets.json",
+  "2e43e127a3a9ff2e witness.jsonl",
+  "36eab472ecd5c0b6 config.json",
+  "3b358558e85d2fcb preflight_probe.py",
+  "5c8fbde6858bc163 run_truth_gate.py",
+  "f9db07239e36f0b1 zhushi_close.py",
+  "83a68ddd19b5a31e ledger.py",
+  "2595f363f82ab249 authz_check.py",
+  "ff8fb0a132497b0c watchdog_v1.py",
+  "c62cb237db2ebc39 SPEC_v2_1014.md"
+ ],
+ "note": "铸尺工程当日账本指纹；异源三问：写得出·删不净·不必我读回"
+}
